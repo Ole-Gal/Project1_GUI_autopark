@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Transfer
+comment1.params=line\ fieldsNum
+comment1.target=Car\ lineToCar(java.lang.String,\ int)
+comment2.params=lines
+comment2.target=java.util.List\ StringsToCars(java.util.List)
+comment3.params=cars
+comment3.target=java.util.List\ CarsToStrings(java.util.List)
+numComments=4

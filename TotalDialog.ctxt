@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=TotalDialog
+comment1.params=owner\ title\ totals
+comment1.target=TotalDialog(java.awt.Frame,\ java.lang.String,\ java.util.List)
+numComments=2

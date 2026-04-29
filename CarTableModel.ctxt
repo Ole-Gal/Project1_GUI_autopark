@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CarTableModel
+comment1.params=cars
+comment1.target=CarTableModel(java.util.List)
+comment2.params=
+comment2.target=int\ getRowCount()
+comment3.params=
+comment3.target=int\ getColumnCount()
+comment4.params=col
+comment4.target=java.lang.String\ getColumnName(int)
+comment5.params=row\ col
+comment5.target=java.lang.Object\ getValueAt(int,\ int)
+comment6.params=row\ col
+comment6.target=boolean\ isCellEditable(int,\ int)
+comment7.params=cars
+comment7.target=void\ setCars(java.util.List)
+numComments=8
